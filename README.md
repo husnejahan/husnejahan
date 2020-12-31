@@ -5,7 +5,7 @@
 
     - Building video analytics platform
     
-    - Reseach on computer vision,Medical imaging, video analytics
+    - Reseach on Computer vision, Medical imaging, Video analytics
 
 - 👯 I’m looking to collaborate on 
 
