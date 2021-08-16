@@ -11,6 +11,7 @@
 - 
              -   *Adversarial machine learning*, 
              -   *Adversarial Training*, 
+             -   *Model Optimization*
              -   *ML System Design for video analytics*, 
              -   *ML System Design for Medical imaging*
              
