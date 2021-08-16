@@ -15,7 +15,6 @@
              -   ML System Design for video analytics
              -   ML System Design for Medical imaging
              
-- 
 - 👯 I’m looking to collaborate on 
 
    Any Kaggle competition....
