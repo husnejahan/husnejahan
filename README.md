@@ -7,7 +7,13 @@
     
     - Reseach on Computer vision, Medical imaging, Video analytics
 
-- 🌱 My expertise is in *Adversarial machine learning*, *Adversarial Training*, *ML System Design for video analytics*, ML System Design for Medical imaging*.
+- 🌱 My expertise is in  
+- 
+             -   *Adversarial machine learning*, 
+             -   *Adversarial Training*, 
+             -   *ML System Design for video analytics*, 
+             -   *ML System Design for Medical imaging*
+             
 - 
 - 👯 I’m looking to collaborate on 
 
