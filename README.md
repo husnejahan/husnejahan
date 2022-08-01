@@ -12,6 +12,7 @@
              -   Adversarial machine learning
              -   Adversarial Training
              -   Model Optimization
+             -   Autonomous UAV
              -   ML System Design for video analytics
              -   ML System Design for Medical imaging
              
