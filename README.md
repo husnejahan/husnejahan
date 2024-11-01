@@ -3,7 +3,7 @@
 
  - 🔭 I’m currently working on
 
-    - Building video analytics platform
+    - Building video analytics and video streaming platform
     
     - Reseach on Computer vision, 2D and 3D Video Super-Resolution, Point cloud completion, Point cloud compression
 
