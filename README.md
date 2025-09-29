@@ -9,15 +9,15 @@
 
 - 🌱 My expertise is in  
 
-             -   3D Video/point cloud Super-Resolution
-             -   3D Point cloud compression
-             -   3D Point cloud compression
+             -   MLLMs for Captioning, Visual Question Answering (VQA),Code Generation
+             -   2D Video/image Super-Resolution
+             -   3D Point cloud completion
              -   Adversarial machine learning
              -   Adversarial Training
              -   Model Optimization
-             -   Autonomous UAV
+             -   Image Denoising
              -   ML System Design for video analytics
-             -   ML System Design for video streaming
+
              
   
 - 📫 How to reach me: *mosthusne.jahan@gmail.com*
