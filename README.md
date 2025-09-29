@@ -21,5 +21,4 @@
              
   
 - 📫 How to reach me: *mosthusne.jahan@gmail.com*
-- 📫 Website: https://husnejahan.github.io/
-
+- 📫 Website: https://husnejahan.github.io/portfolio/
