@@ -9,7 +9,7 @@
 
 - 🌱 My expertise is in  
 
-             -   MLLMs for Captioning, Visual Question Answering (VQA),Code Generation
+             -   MLLMs for Captioning, Visual Question Answering (VQA)
              -   2D Video/image Super-Resolution
              -   3D Point cloud completion
              -   Adversarial machine learning
